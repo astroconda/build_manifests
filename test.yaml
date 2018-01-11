@@ -8,16 +8,16 @@ channel_URL: 'http://ssb.stsci.edu/astroconda'
 # publication_root path needs to be visible from the slave nodes.
 publication_root: '/eng/ssb/websites/ssbpublic/astroconda-j-pub-testing'
 packages:
-  - costools
-  - cfitsio
+  - asdf
+#  - costools
+#  - cfitsio
 #  - ds9
 #  - crds
 #  - cube-tools
 #  - sphinxcontrib-programoutput
 #  - pyds9
 #  - wcstools
-#  - webbpsf
-#  
+#  - webbpsf  
 #  - mosviz
 #  - specutils
 #  - glueviz
