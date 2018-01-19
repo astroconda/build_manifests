@@ -62,7 +62,6 @@ packages:
   - pysynphot
   - python-daemon
   - pytools
-  - pywcs
   - reftools
   - relic
   - secretstorage
