@@ -64,12 +64,14 @@ packages:
   - pysynphot
   - python-daemon
   - pytools
+  - radio-beam
   - reftools
   - relic
   - secretstorage
   - selenium
   - sextractor
   - shunit2
+  - spectral-cube
   - specutils
   - specviz
   - spherical-geometry
