@@ -31,7 +31,6 @@ packages:
   - stsci.ndimage
   - stsci.numdisplay
   - stsci.skypac
-  - stsci.sphere
   - stsci.sphinxext
   - stsci.stimage
   - stsci.tools
