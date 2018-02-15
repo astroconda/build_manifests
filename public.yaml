@@ -62,11 +62,13 @@ packages:
   - pysynphot
   - python-daemon
   - pytools
+  - radio-beam
   - reftools
   - relic
   - secretstorage
   - selenium
   - shunit2
+  - spectral-cube
   - specutils
   - specviz
   - sphere
