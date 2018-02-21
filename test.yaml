@@ -9,7 +9,7 @@ channel_URL: 'http://ssb.stsci.edu/astroconda-j-pub-testing'
 publication_root: '/eng/ssb/websites/ssbpublic/astroconda-j-pub-testing'
 packages:
   - asdf
-#  - costools
+  - costools
 #  - cfitsio
 #  - ds9
 #  - crds
