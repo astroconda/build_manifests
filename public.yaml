@@ -73,7 +73,6 @@ packages:
   - specviz
   - sphere
   - spherical-geometry
-  - sphinx_rtd_theme
   - sphinxcontrib-programoutput
   - stginga
   - stistools
@@ -86,7 +85,6 @@ packages:
   - stsci.imagemanip
   - stsci.imagestats
   - stsci.ndimage
-  - stsci.numdisplay
   - stsci.skypac
   - stsci.sphinxext
   - stsci.stimage
