@@ -29,6 +29,7 @@ packages:
   - drizzle
   - drizzlepac
   - ds9
+  - fast-histogram
   - fftw
   - fitsblender
   - ginga
@@ -45,6 +46,7 @@ packages:
   - jwst_gtvt
   - jwxml
   - mosviz
+  - mpl-scatter-density
   - namedlist
   - nictools
   - opuscoords
