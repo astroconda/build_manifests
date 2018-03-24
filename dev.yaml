@@ -16,9 +16,12 @@ packages:
   - asteval
   - astroimtools
   - astropy
+  - astropy-healpix
   - astroquery
+  - astroscrappy
   - asv
   - calcos
+  - ccdproc
   - cfitsio
   - costools
   - crds
@@ -69,6 +72,7 @@ packages:
   - radio-beam
   - reftools
   - relic
+  - reproject
   - secretstorage
   - selenium
   - sextractor
