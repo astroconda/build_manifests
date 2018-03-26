@@ -14,10 +14,13 @@ packages:
   - asdf
   - asdf-standard
   - astroimtools
+  - astropy-healpix
   - astroquery
+  - astroscrappy
   - asteval
   - asv
   - calcos
+  - ccdproc
   - cfitsio
   - costools
   - crds
@@ -65,6 +68,7 @@ packages:
   - radio-beam
   - reftools
   - relic
+  - reproject
   - secretstorage
   - selenium
   - shunit2
