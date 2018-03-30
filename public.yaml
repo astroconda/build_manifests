@@ -93,7 +93,7 @@ packages:
   - stsci.sphinxext
   - stsci.stimage
   - stsci.tools
-  - stsci_sphinx_theme
+  - stsci_rtd_theme
   - stsynphot
   - stwcs
   - synphot
