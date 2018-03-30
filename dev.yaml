@@ -97,6 +97,7 @@ packages:
   - stsci.sphinxext
   - stsci.stimage
   - stsci.tools
+  - stsci_rtd_theme
   - stsynphot
   - stwcs
   - synphot
