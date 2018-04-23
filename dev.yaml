@@ -35,6 +35,7 @@ packages:
   - fast-histogram
   - fftw
   - fitsblender
+  - fitsverify
   - ginga
   - glue-core
   - glue-vispy-viewers
