@@ -1,6 +1,6 @@
 # Recipe repository
 repository: 'https://github.com/rendinam/astroconda-dev'
-git_ref_spec: 'jwst_parameterized_rev'
+git_ref_spec: 'master'
 
 # Publication channel to consult when determining what packages already exist.
 channel_URL: 'http://ssb.stsci.edu/astroconda-dev'
