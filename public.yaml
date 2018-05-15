@@ -50,6 +50,7 @@ packages:
   - mosviz
   - nictools
   - opuscoords
+  - pandokia
   - photutils
   - poppy
   - purge_path
