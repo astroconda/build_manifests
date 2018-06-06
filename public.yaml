@@ -60,6 +60,8 @@ packages:
   - pyobjc-core
   - pyobjc-framework-cocoa
   - pyobjc-framework-quartz
+  - pyopengl-accelerate
+  - pyopengl
   - pyqtgraph
   - pyraf
   - pyregion
