@@ -85,6 +85,7 @@ packages:
   - sphinxcontrib-programoutput
   - stginga
   - stistools
+  - stregion
   - stsci
   - stsci-data-analysis
   - stsci-hst
