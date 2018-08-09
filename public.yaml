@@ -76,6 +76,7 @@ packages:
   - reproject
   - secretstorage
   - selenium
+  - semantic_version
   - shunit2
   - spectral-cube
   - specutils
