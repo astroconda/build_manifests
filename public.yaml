@@ -51,6 +51,7 @@ packages:
   - nictools
   - opuscoords
   - pandokia
+  - parsley
   - photutils
   - poppy
   - purge_path
