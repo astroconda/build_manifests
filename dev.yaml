@@ -67,6 +67,7 @@ packages:
   - pyqtgraph
   - pyraf
   - pyregion
+  - pysiaf
   - pysynphot
   - python-daemon
   - pytools
