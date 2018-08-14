@@ -64,6 +64,7 @@ packages:
   - pyobjc-core
   - pyobjc-framework-cocoa
   - pyobjc-framework-quartz
+  - pyopengl
   - pyqtgraph
   - pyraf
   - pyregion
