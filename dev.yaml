@@ -54,6 +54,7 @@ packages:
   - namedlist
   - nictools
   - opuscoords
+  - parsley
   - photutils
   - poppy
   - purge_path
