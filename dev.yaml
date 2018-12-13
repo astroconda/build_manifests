@@ -108,6 +108,7 @@ packages:
   - stsynphot
   - stwcs
   - synphot
+  - tweakwcs
   - verhawk
   - wcstools
   - webbpsf
