@@ -32,3 +32,4 @@ packages:
   - stginga
   - tweakwcs
   - webbpsf
+  - stsci-data-analysis
