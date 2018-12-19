@@ -21,6 +21,7 @@ packages:
   - asdf
   - astroimtools
   - cubeviz
+  - da5-notebooks
   - gwcs
   - mosviz
   - photutils
@@ -29,3 +30,5 @@ packages:
   - specviz
   - spherical-geometry
   - stginga
+  - tweakwcs
+  - webbpsf
