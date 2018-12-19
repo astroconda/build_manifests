@@ -1,0 +1,22 @@
+# Recipe repository
+repository: 'https://github.com/astroconda/astroconda-contrib'
+git_ref_spec: 'spec-pkgs-ancient-workaround'
+
+# Publication channel to consult when determining what packages already exist.
+channel_URL: 'http://ssb.stsci.edu/astroconda'
+
+# publication_root path needs to be visible from the slave nodes.
+publication_root: '/eng/ssb/websites/ssbpublic/astroconda'
+
+# conda environment spec file generation is only performed if this field
+# is populated.  Allowed values are:
+# 'jwstdp' - JWST Data processing release
+# 'hstdp'  - HST Data processing release
+#specfile_type: 'da'
+
+# Output location for produced environment spec files
+#specfile_output: '/eng/ssb/websites/ssbpublic/astroconda-releases-staging'
+
+packages:
+  - specutils
+  - specviz
