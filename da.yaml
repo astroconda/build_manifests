@@ -12,10 +12,10 @@ publication_root: '/eng/ssb/websites/ssbpublic/astroconda'
 # is populated.  Allowed values are:
 # 'jwstdp' - JWST Data processing release
 # 'hstdp'  - HST Data processing release
-specfile_type: 'da'
+#specfile_type: 'da'
 
 # Output location for produced environment spec files
-specfile_output: '/eng/ssb/websites/ssbpublic/astroconda-releases-staging'
+#specfile_output: '/eng/ssb/websites/ssbpublic/astroconda-releases-staging'
 
 packages:
   - specutils
