@@ -50,7 +50,6 @@ packages:
   - jwst_gtvt
   - jwxml
   - mosviz
-  - mpl-scatter-density
   - namedlist
   - nictools
   - opuscoords
