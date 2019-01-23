@@ -41,6 +41,7 @@ packages:
   - glue-vispy-viewers
   - glueviz
   - gwcs
+  - hlapipeline
   - hstcal
   - htc_utils
   - imexam
