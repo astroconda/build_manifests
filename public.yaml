@@ -33,6 +33,7 @@ packages:
   - drizzle
   - drizzlepac
   - ds9
+  - dust_extinction
   - fftw
   - fitsblender
   - fitsverify
