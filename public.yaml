@@ -46,6 +46,7 @@ packages:
   - hstcal
   - htc_utils
   - imexam
+  - jplephem
   - jwst_coronagraph_visibility
   - jwst_footprints
   - jwst_gtvt
