@@ -50,6 +50,7 @@ packages:
   - jwst_coronagraph_visibility
   - jwst_footprints
   - jwst_gtvt
+  - jwst-visit-parser
   - jwxml
   - mosviz
   - nictools
