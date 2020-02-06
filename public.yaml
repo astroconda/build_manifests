@@ -80,7 +80,6 @@ packages:
   - reftools
   - relic
   - reproject
-  - secretstorage
   - selenium
   - semantic_version
   - shunit2
