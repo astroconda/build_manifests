@@ -20,7 +20,6 @@ packages:
   - asteval
   - asv
   - calcos
-  - ccdproc
   - cfitsio
   - ci-watson
   - costools
