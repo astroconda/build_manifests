@@ -69,6 +69,7 @@ packages:
   - pyobjc-framework-quartz
   - pyopengl-accelerate
   - pyopengl
+  - pypdf2
   - pyqtgraph
   - pyraf
   - pyregion
