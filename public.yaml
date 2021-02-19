@@ -43,6 +43,7 @@ packages:
   - glue-vispy-viewers
   - glueviz
   - gwcs
+  - hstaxe
   - hstcal
   - htc_utils
   - imexam
