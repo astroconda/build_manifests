@@ -30,7 +30,7 @@ packages:
   - dbus-glib
   - dbus-python
   - drizzle
-  - drizzlepac
+  #- drizzlepac
   - ds9
   - dust_extinction
   - extension-helpers
