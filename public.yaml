@@ -114,7 +114,7 @@ packages:
   - tweakwcs
   - verhawk
   - wcstools
-  #- webbpsf
+  - webbpsf
   - webbpsf-data
   - wfc3tools
   - wfpc2tools
